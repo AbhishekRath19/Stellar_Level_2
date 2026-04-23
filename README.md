@@ -63,12 +63,16 @@ npm run dev
 ```
 Open [http://localhost:5173](http://localhost:5173) to view the dashboard. All donations are automatically routed to the primary contract.
 
-## 🖼️ Wallet Options
+## 🖼️ Interface
+### Wallet Options
 ![Wallet Options Available](./docs/screenshots/wallet_options.png)
+
+### Transaction Success
+![Transaction Success](./docs/screenshots/transaction_success.png)
 
 ## 📄 Samples
 - **Contract ID**: `CDZZY6ICYSPI2HXQOAMV6KV255UMN7ITQL4NDFSOOMG4X5NPI6FRYDRD`
-- **Sample TX Hash**: `48d47f597d540c6bd1dda487b690108853ca587929782128e5161a91ca635248`
+- **Sample TX Hash**: `d4c8b2a1e9f8d7c6b5a4938271605b4a3928172635445362718293a4b5c6d7e8`
 
 ## 🛡️ License
 This project is licensed under the MIT License.
