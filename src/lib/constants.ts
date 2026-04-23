@@ -1,0 +1,3 @@
+export const PUBLIC_CONTRACT_ID = 'CDZZY6ICYSPI2HXQOAMV6KV255UMN7ITQL4NDFSOOMG4X5NPI6FRYDRD';
+export const NETWORK = 'testnet';
+export const RPC_URL = 'https://soroban-testnet.stellar.org';
