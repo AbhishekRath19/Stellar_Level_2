@@ -67,8 +67,11 @@ Open [http://localhost:5173](http://localhost:5173) to view the dashboard. All d
 ### Wallet Options
 ![Wallet Options Available](./docs/screenshots/wallet_options.png)
 
-### Transaction Success
-![Transaction Success](./docs/screenshots/transaction_success.png)
+### Dashboard Success
+![Dashboard Success](./docs/screenshots/dashboard_success.png)
+
+### Verifiable Transaction on Stellar Expert
+![Stellar Expert Success](./docs/screenshots/stellar_expert_success.png)
 
 ## 📄 Samples
 - **Contract ID**: `CDZZY6ICYSPI2HXQOAMV6KV255UMN7ITQL4NDFSOOMG4X5NPI6FRYDRD`
