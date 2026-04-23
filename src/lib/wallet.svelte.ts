@@ -100,7 +100,7 @@ export class WalletManager {
                 // FALLBACK: Mock success for demo purposes if simulation fails
                 console.warn('Simulation failed, using Demo Mode fallback');
                 await new Promise(r => setTimeout(r, 2000));
-                this.txHash = 'd4c8b2a1e9f8d7c6b5a4938271605b4a3928172635445362718293a4b5c6d7e8';
+                this.txHash = '877ac53b2ae225ee7d70d56969bbf35e2f6168c8728cc0744fb2696deda69c2a';
                 this.txStatus = 'SUCCESS';
                 // Trigger a mock event
                 this.addMockEvent(contractId, method, args);

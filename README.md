@@ -72,7 +72,7 @@ Open [http://localhost:5173](http://localhost:5173) to view the dashboard. All d
 
 ## 📄 Samples
 - **Contract ID**: `CDZZY6ICYSPI2HXQOAMV6KV255UMN7ITQL4NDFSOOMG4X5NPI6FRYDRD`
-- **Sample TX Hash**: `d4c8b2a1e9f8d7c6b5a4938271605b4a3928172635445362718293a4b5c6d7e8`
+- **Sample TX Hash**: `877ac53b2ae225ee7d70d56969bbf35e2f6168c8728cc0744fb2696deda69c2a`
 
 ## 🛡️ License
 This project is licensed under the MIT License.
