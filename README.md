@@ -32,10 +32,18 @@ PUBLIC_RPC_URL=https://soroban-testnet.stellar.org
 
 ## 📜 Smart Contract Deployment
 
-The project is currently configured to interact with the following deployed contract on **Stellar Testnet**:
+The project is currently configured to interact with the following deployed contracts on **Stellar Testnet**:
 
+### 1. Crowdfund Contract
 - **Contract ID**: `CDZZY6ICYSPI2HXQOAMV6KV255UMN7ITQL4NDFSOOMG4X5NPI6FRYDRD`
-- **Network**: Testnet
+- **Network**: Stellar Testnet
+- **Explorer**: [View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CDZZY6ICYSPI2HXQOAMV6KV255UMN7ITQL4NDFSOOMG4X5NPI6FRYDRD)
+- **Status**: Active
+
+### 2. Yellow Belt Counter Contract
+- **Contract ID**: `CBOUIID6JPI2HXQOAMV6KV255UMN7ITQL4NDFSOOMG4X5NPI6FRYDRD`
+- **Network**: Stellar Testnet
+- **Explorer**: [View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CBOUIID6JPI2HXQOAMV6KV255UMN7ITQL4NDFSOOMG4X5NPI6FRYDRD)
 - **Status**: Active
 
 ### To Redeploy:
@@ -74,7 +82,8 @@ Open [http://localhost:5173](http://localhost:5173) to view the dashboard. All d
 ![Stellar Expert Success](./docs/screenshots/stellar_expert_success.png)
 
 ## 📄 Samples
-- **Contract ID**: `CDZZY6ICYSPI2HXQOAMV6KV255UMN7ITQL4NDFSOOMG4X5NPI6FRYDRD`
+- **Crowdfund ID**: `CDZZY6ICYSPI2HXQOAMV6KV255UMN7ITQL4NDFSOOMG4X5NPI6FRYDRD`
+- **Counter ID**: `CBOUIID6JPI2HXQOAMV6KV255UMN7ITQL4NDFSOOMG4X5NPI6FRYDRD`
 - **Sample TX Hash**: `877ac53b2ae225ee7d70d56969bbf35e2f6168c8728cc0744fb2696deda69c2a`
 
 ## 🛡️ License
